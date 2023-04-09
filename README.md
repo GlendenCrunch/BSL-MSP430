@@ -4,3 +4,5 @@
 + For MAX232CPE from China capacitor С6 = 48 uF, otherwise it is not needed
 + Package 3D:
 ![alt text](https://github.com/GlendenCrunch/ftdi-rs232-bsl/blob/main/image/1.png)
+![alt text](https://github.com/GlendenCrunch/ftdi-rs232-bsl/blob/main/image/3.png)
+![alt text](https://github.com/GlendenCrunch/ftdi-rs232-bsl/blob/main/image/2.png)
