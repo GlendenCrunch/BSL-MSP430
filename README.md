@@ -5,3 +5,4 @@
 + Package 3D:
 
 ![alt text](https://github.com/GlendenCrunch/ftdi-rs232-bsl/blob/main/image/1.png)
+![alt text](https://github.com/GlendenCrunch/ftdi-rs232-bsl/blob/main/image/3.png)
