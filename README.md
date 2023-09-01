@@ -1,4 +1,4 @@
-# ftdi-rs232-bsl
+# BSL MSP430 + ftdi-rs232
 + Scheme and PCB of the adapter USB-FTDI to interface RS-232 and bootloader (BSL) for microcontrollers Texas Instrument MSP430
 + Libraries Eagle: SparkFun
 + For MAX232CPE from China capacitor С6 = 48 uF, otherwise it is not needed
